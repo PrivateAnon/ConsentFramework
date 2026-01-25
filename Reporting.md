@@ -6,6 +6,12 @@ To report a consent incident, please < E-mail/call/message _______ >. Please be 
 2. The parties involved, any contact information for them that you may have, and their role in the matter (Eg: witness, advocate, accused party, etc.)
 3. Screenshots, recordings, text messages, and any other relevant supporting evidence you may have.
 
+# What can I report?
+
+You can report anything that will not be handled by law enforcement which you feel did not respect your consent. Crimes should be handled by law enforcement. For us to get involved in what should be a law enforcement matter may cause many problems such as spoiling evidence or being accused of (or inadvertently) interfering with a police investigation. We are not discouraging anyone from reporting - we are making sure it is reported to the right place. If you are ***sure*** you do not want this matter handled by law enforcement now or in the future or if it is something which is not a crime, then feel free to send a report to us.
+
+Reports should be something more than just that someone was rude or "gave you the ick".
+
 # This is what will happen next
 
 Upon receipt of a report, we will respond with the following acknowledgement:
