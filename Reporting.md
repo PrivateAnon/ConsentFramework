@@ -70,6 +70,8 @@ If a protective order is appropriate to the situation, we will direct you toward
 
 We are also committed to protecting those who report their experience from harassment. As such, we maintain a zero tolerance policy towards retaliatory behavior. Any person accused of malfeasance who engages in intimidation or retaliation towards the reporting party will be permanently banned.
 
+In addition, we are committed to protecting people from false reports. If it can be demonstrated that something was falsely reported knowingly, those making false reports will be permanently banned from future events.
+
 Finally, advocates are crucial to this process. Anyone found to be disparaging, harassing, or otherwise retaliating against an advocate will find themselves dis-invited from our space(s). We necessarily should assume the best of advocates - who may simply believe that everyone is entitled to a defense or even just support though this process. "Guilt by association" is unacceptable and attempting to tamper with, undermine, or influence this process by targeting an advocate will not be tolerated.
 
 # Reporting resources
